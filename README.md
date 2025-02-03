@@ -96,19 +96,19 @@ Experienced NestJS Developer with over 1.5 years of hands-on experience in build
 
 ---
 
-### **📐 Polynomial Equation Multiplication (CLI Application)**
-- **Tech Stack:** `Java`, `Command-line Interface (CLI)`
-- Developed a command-line application in **Java** to solve polynomial multiplication.
-- Efficiently parses and manages polynomial equations using a linked list structure for better performance.
-
----
-
 ### **🐍 The Hungry Snake – Food-Eating Game (Chrome Extension)**
 - **Tech Stack:** `React.js`, `Chrome Extensions API`, `JavaScript`
 - Built an interactive Snake food-eating game as a Chrome extension using **React**.
 - Features: Difficulty levels, score tracking, smooth gameplay, and high responsiveness.
 
 🔗 **[Repository](https://github.com/Praveen-p-k/hungry-snake)**
+
+---
+
+### **📐 Polynomial Equation Multiplication (CLI Application)**
+- **Tech Stack:** `Java`, `Command-line Interface (CLI)`
+- Developed a command-line application in **Java** to solve polynomial multiplication.
+- Efficiently parses and manages polynomial equations using a linked list structure for better performance.
 
 ---
 

@@ -48,7 +48,7 @@ Experienced NestJS Developer with over 1.5 years of hands-on experience in build
 - Authenticated multiple clients, tracked inactivity, and validated events using API keys.
 - Scalable design for external backend consumption.
 
-🔗 **[Repository](https://github.com/Praveen-p-k/websocket-kafka-integration)**
+🔗 **[Repository](https://github.com/praveenrampk/websocket-kafka-integration)**
 
 ---
 
@@ -57,7 +57,7 @@ Experienced NestJS Developer with over 1.5 years of hands-on experience in build
 - Built a Secret Santa app allowing group creation, wishlist management, and role-based access.
 - Integrated real-time updates using WebSocket and secure authentication via JWT.
   
-🔗 **[Repository](https://github.com/Praveen-p-k/secret-santa)**
+🔗 **[Repository](https://github.com/praveenrampk/secret-santa)**
 
 ---
 
@@ -75,7 +75,7 @@ Experienced NestJS Developer with over 1.5 years of hands-on experience in build
 - Event validation, retry mechanisms, and webhook integration to trigger actions on event emissions.
 - Efficient tracking of events stored in **MySQL**.
 
-🔗 **[Repository](https://github.com/Praveen-p-k/even-monitoring-server)**
+🔗 **[Repository](https://github.com/praveenrampk/even-monitoring-server)**
 
 ---
 
@@ -85,7 +85,7 @@ Experienced NestJS Developer with over 1.5 years of hands-on experience in build
 - Features include group messaging, media storage using **Google Drive API**, and **MySQL** for data storage.
 - Fast, scalable, and secure messaging platform.
 
-🔗 **[Repository](https://github.com/Praveen-p-k/chat-me)**
+🔗 **[Repository](https://github.com/praveenrampk/chat-me)**
 
 ---
 
@@ -101,7 +101,7 @@ Experienced NestJS Developer with over 1.5 years of hands-on experience in build
 - Built an interactive Snake food-eating game as a Chrome extension using **React**.
 - Features: Difficulty levels, score tracking, smooth gameplay, and high responsiveness.
 
-🔗 **[Repository](https://github.com/Praveen-p-k/hungry-snake)**
+🔗 **[Repository](https://github.com/praveenrampk/hungry-snake)**
 
 ---
 
@@ -120,11 +120,11 @@ Experienced NestJS Developer with over 1.5 years of hands-on experience in build
 ---
 
 ## 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=praveen-p-k&show_icons=true&locale=en&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-p-k&show_icons=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=praveenrampk&show_icons=true&locale=en&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenrampk&show_icons=true&locale=en)
 
 🔥 **GitHub Streak:**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=praveen-p-k&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=praveenrampk&theme=dark&hide_border=false)
 
 ---

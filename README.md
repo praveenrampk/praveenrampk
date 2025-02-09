@@ -14,7 +14,7 @@
 Experienced NestJS Developer with over 1.5 years of hands-on experience in building user-centric applications. Proficient in Agile methodologies and skilled in Jira for project management. Well-versed in NestJS, Microservices, Cloud technologies, and API development. Capable of simplifying complex technical concepts for non-technical stakeholders. Experienced across all phases of the software development lifecycle, eager to leverage my NestJS expertise to drive business growth through technology.
 
 
-🌐 **Explore my [🔗Portfolio](https://praveen-ram.netlify.app/)**
+🌐 **Explore my [🔗Portfolio](https://praveenram.netlify.app/)**
 
 ---
 

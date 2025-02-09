@@ -105,6 +105,19 @@ Experienced NestJS Developer with over 1.5 years of hands-on experience in build
 
 ---
 
+### **🎫 Train Ticket Reservation System**
+- **Tech Stack:** `Java`, `OOP Design Patterns`, `CLI`
+- Developed a Train Ticket Reservation system that allows users to:
+  - Book tickets with source, destination, and seat selection.
+  - Cancel tickets and manage waiting lists.
+  - View seat availability and track the status of booked, canceled, and waiting list tickets.
+- Implemented booking and cancellation logic with PNR generation.
+- Features include partial cancellation and waiting list management.
+
+🔗 **[Repository](https://github.com/praveenrampk/local-train-reservation)**
+
+---
+
 ### **📐 Polynomial Equation Multiplication (CLI Application)**
 - **Tech Stack:** `Java`, `Command-line Interface (CLI)`
 - Developed a command-line application in **Java** to solve polynomial multiplication.

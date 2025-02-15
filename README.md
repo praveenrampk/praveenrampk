@@ -24,19 +24,19 @@ Experienced NestJS Developer with over 1.5 years of hands-on experience in build
 `JavaScript`, `TypeScript`, `Java`, `C`, `Solidity`
 
 **🔧** **Backend Development:**  
-`NestJS`, `Node.js`, `Express`, `Next.js`
+`NestJS`, `Spring Boot`, `Spring Data JPA`, `Hibernate`, `Node.js`, `Next.js`
 
 **💾** **Databases:**  
-`MongoDB`, `MySQL`, `DynamoDB`, `PostgreSQL`
+`MySQL`, `MongoDB`, `DynamoDB`, `PostgreSQL`
 
 **⚙️** **DevOps & Cloud:**  
-`Docker`, `Azure`, `AWS`, `GCP`, `CI/CD`
+`Docker`, `AWS`, `GCP`, `CI/CD`
 
 **🌐** **Frontend Development:**  
 `React.js`, `Next.js`, `TailwindCSS`, `Bootstrap`
 
 **📡** **Messaging & Event Streaming:**  
-`Apache Kafka`, `AWS SQS`, `WebSocket`
+`Apache Kafka`, `SQS`, `WebSocket`
 
 ---
 
